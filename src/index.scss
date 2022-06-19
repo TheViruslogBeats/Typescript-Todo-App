@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Norican&family=Sofia&family=Sue+Ellen+Francisco&display=swap");
+
+
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
+  font-family: "TheSwarmRegular"; 
+  // адрес шрифта и тип 
+  src: url("./TheSwarmRegular.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  } 
+
+* {
+  margin: 0;
+  padding: 0;
+  border: unset;
+  font-family: "Norican", cursive;
+  font-family: "Sofia", cursive;
+  // font-family: "Sue Ellen Francisco", cursive;
+  // letter-spacing: 4px;
+  font-family: 'TheSwarmRegular';
+  letter-spacing: 2px;
+  // font-weight: 900;
+}
+
+:root {
+  --color-1: #fefce8;
+  --color-2: #fef9c3;
+  --color-3: #f5d0fe;
+  --color-4: #fae8ff;
+  --color-4-hover: hsl(287, 100%, 93%);
+}
+
+body {
+  
+  background-color: #fefce8;
+}
