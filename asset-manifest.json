@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41197442.css",
+    "main.js": "/static/js/main.e1da306f.js",
+    "static/media/TheSwarmRegular.ttf": "/static/media/TheSwarmRegular.8f7bf6e545f02cc32cfe.ttf",
+    "index.html": "/index.html",
+    "main.41197442.css.map": "/static/css/main.41197442.css.map",
+    "main.e1da306f.js.map": "/static/js/main.e1da306f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41197442.css",
+    "static/js/main.e1da306f.js"
+  ]
+}
