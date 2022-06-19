@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.41197442.css",
-    "main.js": "/static/js/main.e1da306f.js",
-    "static/media/TheSwarmRegular.ttf": "/static/media/TheSwarmRegular.8f7bf6e545f02cc32cfe.ttf",
-    "index.html": "/index.html",
-    "main.41197442.css.map": "/static/css/main.41197442.css.map",
-    "main.e1da306f.js.map": "/static/js/main.e1da306f.js.map"
+    "main.css": "/Typescript-Todo-App/static/css/main.82d31440.css",
+    "main.js": "/Typescript-Todo-App/static/js/main.e1da306f.js",
+    "static/media/TheSwarmRegular.ttf": "/Typescript-Todo-App/static/media/TheSwarmRegular.8f7bf6e545f02cc32cfe.ttf",
+    "index.html": "/Typescript-Todo-App/index.html",
+    "main.82d31440.css.map": "/Typescript-Todo-App/static/css/main.82d31440.css.map",
+    "main.e1da306f.js.map": "/Typescript-Todo-App/static/js/main.e1da306f.js.map"
   },
   "entrypoints": [
-    "static/css/main.41197442.css",
+    "static/css/main.82d31440.css",
     "static/js/main.e1da306f.js"
   ]
 }
